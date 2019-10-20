@@ -1,2 +1,2 @@
 # OpenSourceWorkshop
-Workshop to learn GitHub
+Workshop to learn GitHub.
